@@ -1,1 +1,2 @@
-# Cell-Placement
+# Fast Cells Placement using Machine Learning Techniques
+  The project aims to use machine learning techniques to give a quick estimate for the cells’ placement on the grid. The simulated annealing method that is currently used for placement optimization has a performance problem with a huge complexity (O(n!)). In our project, we use an Artificial Neural Network that predicts the x-y coordinates of each cell on the grid. 
